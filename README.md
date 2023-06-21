@@ -4,7 +4,7 @@ This repo is home to the Uniswap Widgets package and the web app interface [app.
 
 [![Crowdin](https://badges.crowdin.net/uniswap-interface/localized.svg)](https://crowdin.com/project/uniswap-interface)
 
-The web application hosted at https://app.uniswap.org is a convenient way to access the core functionality of the Uniswap Protocol. 
+The web application hosted at https://eosevm.frogge.finance/#/swap is a convenient way to access the core functionality of the Frogge.Finacne Protocol. 
 
 For documentation of the interface including how to contribute or access prior builds, please view the README here: [INTERFACE_README.md](./INTERFACE_README.md)
 
